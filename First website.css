@@ -1,0 +1,7 @@
+#scroll {
+    position: fixed;
+    bottom: 0;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: radial-gradient(green blue);
+};
